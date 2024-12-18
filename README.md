@@ -2,7 +2,7 @@
 
 Welcome to my React-Day 2 Homework Project! 🚀 This project demonstrates how to create a simple and dynamic webpage using React via CDN. 💻
 
-[Click to see the project]()
+[Click to see the project](https://avantikasingh2110.github.io/React-Day_2-Homework/)
 
 ## 🌈 Features
 
